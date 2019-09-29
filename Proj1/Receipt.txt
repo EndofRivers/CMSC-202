@@ -1,0 +1,9 @@
+Your Order: 
+                Qnty                Item               Price
+                   1  Carrots and Hummus                3.75
+                   1        French Fries                2.50
+                   1        Garden Salad                6.50
+Subtotal: 12.75
+Tax: 0.77
+Total: 13.52
+Receipt Written
